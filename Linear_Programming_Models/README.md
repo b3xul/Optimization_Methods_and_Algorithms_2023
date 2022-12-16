@@ -1,0 +1,1 @@
+Download the linear programming solver lp_solve and use `lp_solve <filename.lp>` to solve the modeled problems.
